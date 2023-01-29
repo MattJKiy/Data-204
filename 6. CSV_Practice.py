@@ -1,3 +1,5 @@
+# Thursday 26/01/2023 - Morning Exercises - Take a csv file, create functions that open, transform and write into a
+# new csv file
 import csv
 
 def open_file(file_name):

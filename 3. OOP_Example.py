@@ -1,3 +1,4 @@
+# Wednesday 25/01/2023 - Morning Exercises - Paula's example of OOP using animals
 class Animal:
     def __init__(self, name):
         self.name = name

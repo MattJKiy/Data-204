@@ -1,3 +1,4 @@
+# Wednesday 25/01/2023 - Morning Exercises - Create classes based on any objects of your choice
 class Vehicle:
 
     def __init__(self, name, manufacturer):
